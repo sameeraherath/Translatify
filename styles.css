@@ -1,0 +1,14 @@
+/* Styling for the translation tooltip */
+.translation-tooltip {
+
+    position: absolute;
+    background-color: rgb(36, 36, 36);
+    color: white;
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-size: 23px;
+    pointer-events: none;
+    z-index: 1000;
+    white-space: nowrap;
+
+}
